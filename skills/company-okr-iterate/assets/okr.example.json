@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "company": "Fictional Example Co (synthetic fixture only)",
+  "period": {
+    "start": "2030-10-01",
+    "end": "2030-12-31"
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "locator": "Synthetic fixture only; no real company facts or approval"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "O1",
+      "title": "Improve renewal outcomes for the defined customer cohort",
+      "krs": [
+        {
+          "id": "O1.KR1",
+          "title": "Increase account renewal rate within the fixed Q4 expiry cohort",
+          "kind": "outcome",
+          "metric": {
+            "definition": "Renewed accounts divided by all accounts due for renewal in the fixed cohort",
+            "unit": "percent",
+            "population": "Accounts with contracts expiring in Q4; one account counted once",
+            "window": "2030-10-01 through 2030-12-31"
+          },
+          "owner": {
+            "value": "Example Customer Lead",
+            "status": "confirmed",
+            "source_ids": [
+              "S1"
+            ]
+          },
+          "baseline": {
+            "value": 50,
+            "status": "confirmed",
+            "source_ids": [
+              "S1"
+            ]
+          },
+          "target": {
+            "value": 60,
+            "status": "confirmed",
+            "source_ids": [
+              "S1"
+            ]
+          },
+          "deadline": "2030-12-31",
+          "verification": "Compare contract records against the frozen expiry cohort; retain the numerator and denominator.",
+          "dependencies": [],
+          "supports": [],
+          "open_questions": []
+        }
+      ]
+    }
+  ]
+}

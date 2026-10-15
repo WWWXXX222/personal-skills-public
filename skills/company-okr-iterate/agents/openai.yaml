@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company OKR Iterate"
+  short_description: "Autonomous OKR drafting, review, and evidence checks"
+  default_prompt: "Use $company-okr-iterate to improve the existing company OKRs through independent proposals, evidence checks, and bounded revision."

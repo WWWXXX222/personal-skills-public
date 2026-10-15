@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company Operating Memory"
+  short_description: "Company decisions, evidence, reviews, and handoffs"
+  default_prompt: "Use $company-operating-memory. If this folder is empty, run the setup wizard; otherwise start daily memory mode."

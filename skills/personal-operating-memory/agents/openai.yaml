@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Operating Memory"
+  short_description: "Personal memory, source digests, emotional support, and research"
+  default_prompt: "Use $personal-operating-memory to initialize, capture, query, review, research, ingest source digests into an OKF-style knowledge catalog, or provide warm user-prioritized emotional relationship support without storing private facts in the skill."

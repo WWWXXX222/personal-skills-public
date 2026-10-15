@@ -1,0 +1,595 @@
+{
+  "created_at": "2026-09-27T20:38:12.146718+00:00",
+  "repository": "WWWXXX222/personal-skills-public",
+  "visibility": "public",
+  "excluded_names": [
+    ".DS_Store",
+    ".cache",
+    ".git",
+    ".venv",
+    "__pycache__",
+    "node_modules"
+  ],
+  "skills": [
+    {
+      "name": "company-operating-memory",
+      "source": "~/.codex/skills/company-operating-memory",
+      "files": [
+        {
+          "path": "README.md",
+          "bytes": 2548,
+          "sha256": "bffb80a6ce6a34c30add90f809531406f5568423f780861c4941e5e819ff667f"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 4305,
+          "sha256": "6913463d5479335c11cafb7994275bd194f4cd4a808c0ef679c75d15b2872fa4"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 261,
+          "sha256": "ff0c9fe35ad72c610de8b11ff3d28988dca263afeb90d1a3d413383e666eb6e8"
+        },
+        {
+          "path": "references/capture-query-review.md",
+          "bytes": 3406,
+          "sha256": "d8293654b4b2f8a325af7f1663dc96ba3ed7351fb34c911f411f730ff7769c41"
+        },
+        {
+          "path": "references/git-rhythm.md",
+          "bytes": 1257,
+          "sha256": "615d50cf7c45061ed7ccf4e7b26ac48773efd12d770c02674644757139ef856c"
+        },
+        {
+          "path": "references/install-and-share.md",
+          "bytes": 1692,
+          "sha256": "04066713d05ed111d78823b1efba1478fcbadd1f1a59b86b1272fb355329894e"
+        },
+        {
+          "path": "references/multimedia.md",
+          "bytes": 1747,
+          "sha256": "4c22933ea850736e61a7b4937ca5f7e296ef52ca5462fa5502c85db51155c059"
+        },
+        {
+          "path": "references/setup-new-repo.md",
+          "bytes": 4211,
+          "sha256": "0db2b16b645fbdb3538c0dec28a30c600c6861c552ccd0af55f7001d1d46989c"
+        },
+        {
+          "path": "references/standalone-vault.md",
+          "bytes": 3661,
+          "sha256": "60e490767a0a85cee3801e67ba8b3771c77ff1cb0be5753012654ed860cc5af8"
+        }
+      ],
+      "updated_on": "2026-10-02"
+    },
+    {
+      "name": "personal-operating-memory",
+      "source": "~/.codex/skills/personal-operating-memory",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 9756,
+          "sha256": "8964d7d9a511aa634e0d752f465a0743512a1f852919a61ca8279a1894477229"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 410,
+          "sha256": "013b0d36998346ca9c4e1e470388341cf7edb3c8a763872aba743488c5692fb6"
+        },
+        {
+          "path": "references/capture-query-review.md",
+          "bytes": 4333,
+          "sha256": "140cf899df5bf44fdc3db7b1c1460f51012b19a301f7430f10b4973c51550a7e"
+        },
+        {
+          "path": "references/emotional-relationship-support.md",
+          "bytes": 6147,
+          "sha256": "f8c7a4ebbab1d7c6479d2455be4bf9e01c9ec282dff137ca80f4a95987a349b1"
+        },
+        {
+          "path": "references/perplexity-search.md",
+          "bytes": 4105,
+          "sha256": "f34ac4bdbcf682212e1a76a068222a38121842d3827532da11068f6ba7f5bb88"
+        },
+        {
+          "path": "references/schema.md",
+          "bytes": 6303,
+          "sha256": "b946ee475f24d17fc585e73d05c7213fb5efeedee43bcb2d6e2fbda035e60f2c"
+        },
+        {
+          "path": "references/setup-new-repo.md",
+          "bytes": 6057,
+          "sha256": "a0fae1e24f80b99a536c84a97ab5d9108bcb87091d75cadd28fe3c7a285d008a"
+        },
+        {
+          "path": "references/source-digest.md",
+          "bytes": 5788,
+          "sha256": "ec6d49f18853fd6d106f7dea50c01e5647577279130bc290bcf2c46985efcbc9"
+        },
+        {
+          "path": "scripts/perplexity_search.py",
+          "bytes": 4499,
+          "sha256": "6cdf175647083691e92d4a4925fe4f6b763f09301d4d93d96c96de4e73a2a17f"
+        }
+      ]
+    },
+    {
+      "name": "goutoujunshi",
+      "source": "~/.codex/skills/goutoujunshi",
+      "files": [
+        {
+          "path": ".github/ISSUE_TEMPLATE/bug.yml",
+          "bytes": 781,
+          "sha256": "9e1593f4c4ebe5cdb1f16ae0007756d42f919262464999c788a6ebcba0210e78"
+        },
+        {
+          "path": ".github/ISSUE_TEMPLATE/content.yml",
+          "bytes": 694,
+          "sha256": "88b12e914c58d5e4bc5ae0f416381e8827272630c99899cb67fc1ccae4131e6d"
+        },
+        {
+          "path": ".github/PULL_REQUEST_TEMPLATE.md",
+          "bytes": 531,
+          "sha256": "c394563e677aae8b0298e4e3aa486dcf1bcab0fbc892a359f0318e1dfed7601e"
+        },
+        {
+          "path": ".github/workflows/validate.yml",
+          "bytes": 348,
+          "sha256": "e9dc28d7230bfebc2ffe40b20045e03e11a37608a5e915f3f628cf706cad5b2c"
+        },
+        {
+          "path": ".gitignore",
+          "bytes": 147,
+          "sha256": "339589eec33adc39120c56aa12d20325a89caa2d8a70717851f7a6c2a5e3832a"
+        },
+        {
+          "path": "CODE_OF_CONDUCT.md",
+          "bytes": 1151,
+          "sha256": "b307a46b21bb987582cc71d1ad325f842788e97e06487c6d4f96f422aac4e64a"
+        },
+        {
+          "path": "CONTRIBUTING.md",
+          "bytes": 2105,
+          "sha256": "0c6d5fea6db042f588bb5725bb0212391463bb2573604166d5addeb160db760d"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 4594,
+          "sha256": "09b8b9edc132c1d359e3a28761d0f1a3a47f1b9bbebe6a635a351004979c749f"
+        },
+        {
+          "path": "LICENSE.zh-CN.md",
+          "bytes": 1210,
+          "sha256": "9650f8b80dbbf5a90efc59f7a290567df13991f0e77d6ac27fff96af4aa1a2d5"
+        },
+        {
+          "path": "README.md",
+          "bytes": 11470,
+          "sha256": "781b497469e38c00dce9523e8a3810d78d7470b480cfdd0c81d187d11f056f11"
+        },
+        {
+          "path": "SECURITY.md",
+          "bytes": 1124,
+          "sha256": "dc7abfb5c0520c47be0e70250b8c8f1a405460cb50d5099a09bf61e6bcf87193"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 11672,
+          "sha256": "56a6510590d4b897285779623e4671158bbc3a3411bd48727e443e76c4614ad4"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 255,
+          "sha256": "c1c20ab06fe9b841d28d18b0c4fee8dfee5a2f27c8b52ee0e00d208516c665fe"
+        },
+        {
+          "path": "documentation/architecture.md",
+          "bytes": 3467,
+          "sha256": "991d4162865f22e91f37d6268badce2ec53facc665b684dd21a384d23c68e4d7"
+        },
+        {
+          "path": "documentation/automation.md",
+          "bytes": 1778,
+          "sha256": "0e85ffbdb50aae9a1d2b405acf3508205fa507c9541c5a83cd8c11bb1e27ba0d"
+        },
+        {
+          "path": "documentation/flows.md",
+          "bytes": 3996,
+          "sha256": "a5f5b60b849d364c54e8fbd996e01ad7b6cc237a6df842b1dda41d96d228dafa"
+        },
+        {
+          "path": "documentation/knowledge-base.md",
+          "bytes": 2142,
+          "sha256": "77a30e8f27d448c38d564fce8166868b42c9868278375d1f5c46600e49affc82"
+        },
+        {
+          "path": "documentation/permissions.md",
+          "bytes": 1518,
+          "sha256": "cd24c3d5118c56caaa17f9deb1c7df24a0c10ed29bcc8741999c51d56ad3f108"
+        },
+        {
+          "path": "documentation/product.md",
+          "bytes": 4555,
+          "sha256": "e372dfd76141f6d81d51302fb21fc851b832d3bc834cb6e15f9bcdfff6f5f51c"
+        },
+        {
+          "path": "documentation/tests.md",
+          "bytes": 4367,
+          "sha256": "d7bc1cdc77d5d9ccd0b33502859755f3ec1f956107dddc18717483284eb206bf"
+        },
+        {
+          "path": "documentation/variables.md",
+          "bytes": 769,
+          "sha256": "b50510c4065a83ba7acdeec0c47375cb0cf3371222527b331627b0ba736c52d2"
+        },
+        {
+          "path": "references/knowledge/01-证据分级与内容边界.md",
+          "bytes": 4203,
+          "sha256": "9b28d1598a253837f43ab133cdb936084a6d20818e5a5d9b27cfcfe14c4fdbeb"
+        },
+        {
+          "path": "references/knowledge/02-亲密关系心理学总论.md",
+          "bytes": 4296,
+          "sha256": "36adbf5e3db63d203c01b609c20b0f51e770a1504bba32e9f111ec2b96370c50"
+        },
+        {
+          "path": "references/knowledge/03-依恋理论与情绪调节.md",
+          "bytes": 3600,
+          "sha256": "3a23188ca0f199676a3aa8908562457f1aee59d244fb00fe0e3780b98f689f24"
+        },
+        {
+          "path": "references/knowledge/04-MBTI人格与匹配.md",
+          "bytes": 3644,
+          "sha256": "90b7058668925507e26b69a4fab7042272e61335ebf26c401caf683d9612f119"
+        },
+        {
+          "path": "references/knowledge/05-PUA操控与伦理替代.md",
+          "bytes": 5232,
+          "sha256": "ea7664289c27c6fcb0ef709583ee10b0b6c0954c4f220a00f665eb74b4529cfb"
+        },
+        {
+          "path": "references/knowledge/06-吸引约会与关系启动.md",
+          "bytes": 4691,
+          "sha256": "27168cba7b73b128e6db6b860dde92ea52a9cfe6ff0cfbcde78c1be25500b825"
+        },
+        {
+          "path": "references/knowledge/07-沟通冲突与修复.md",
+          "bytes": 4471,
+          "sha256": "440fadf71455dac36fbe291bffa2246e035f5dd0d9d7167cd9a129443375828b"
+        },
+        {
+          "path": "references/knowledge/08-同意边界性与亲密.md",
+          "bytes": 4037,
+          "sha256": "51688890c32a4f134f770d09c210e39361c50fa3753119836fd41b2d5b17c9b4"
+        },
+        {
+          "path": "references/knowledge/09-在线约会与数字关系.md",
+          "bytes": 6488,
+          "sha256": "8c46faff08e601591e12c92df99a0d224b3440a2586660ce70f36ae79479d9d5"
+        },
+        {
+          "path": "references/knowledge/10-恋爱哲学.md",
+          "bytes": 4633,
+          "sha256": "701cf03203d3544e059e7d463167b9cec3914f5fce2ed35af6c416cc80812120"
+        },
+        {
+          "path": "references/knowledge/11-婚姻家庭与生命周期.md",
+          "bytes": 4657,
+          "sha256": "644755f2e98ca18bd26e86cd8845fecf43cc122c16e5756ebc3166cb8bd7de6c"
+        },
+        {
+          "path": "references/knowledge/12-金钱家务育儿与双方家庭.md",
+          "bytes": 4556,
+          "sha256": "9395c909149b552fbd860f57b11cc1a6175d9e2d9518220cf660c38ca7da362c"
+        },
+        {
+          "path": "references/knowledge/13-现代婚姻变迁史.md",
+          "bytes": 5143,
+          "sha256": "9e451325d546669c9fc7e48e56396940b5a86b7e8efba82fad16dac8dd0508db"
+        },
+        {
+          "path": "references/knowledge/14-社会发展与家庭变迁.md",
+          "bytes": 5238,
+          "sha256": "52d2928577f4c69458c03ac4aa0991749b5eaf7c5a4d860b0b458caa60d184e8"
+        },
+        {
+          "path": "references/knowledge/15-分手背叛与关系修复.md",
+          "bytes": 4475,
+          "sha256": "95532db79ce3119774956f2c2f8cfccde1a84c35c15f5963057389ad6cec1f05"
+        },
+        {
+          "path": "references/knowledge/16-多元关系与反刻板印象.md",
+          "bytes": 4385,
+          "sha256": "8276f70a42d3dccb53c9015b2519761eec3743e696f7572e2c6d8d60b77dc446"
+        },
+        {
+          "path": "references/knowledge/17-中国法律安全与危机转介.md",
+          "bytes": 5372,
+          "sha256": "d8a34ca0b20c14e2b7c996c4bcb2cb7774cb94bc99660b66262a95d5aa5ec9c8"
+        },
+        {
+          "path": "references/knowledge/18-实用练习与对话卡.md",
+          "bytes": 4569,
+          "sha256": "b4040cf5de8fd505380518df8982e92d140954d05bc5c305694a7212630e69a7"
+        },
+        {
+          "path": "references/knowledge/19-核心书单与论文索引.md",
+          "bytes": 6780,
+          "sha256": "a9d6e71ec52400b2607765e14c39ab6b3e27b9b8d4ea33d3f28739f1370623bb"
+        },
+        {
+          "path": "references/knowledge/20-经典社交体系的机制、证据与风险边界.md",
+          "bytes": 9435,
+          "sha256": "9f61db17ef76314b51ac077a908923ab7b379a2d819b040c67fa3e9ed7251faa"
+        },
+        {
+          "path": "references/practical/00-导读与使用分级.md",
+          "bytes": 5658,
+          "sha256": "4403632c5f655eb9d7cf59032dfe202ae90512e6cbf3721c19e5cb4855802c8f"
+        },
+        {
+          "path": "references/practical/万能吵架技巧：理性冲突处理指南.md",
+          "bytes": 6616,
+          "sha256": "ea8305e07aa5a4c58b3e15ce28950a6cc8da4862704aae70a4483f4639fa0a5e"
+        },
+        {
+          "path": "references/practical/万能夸人的话术技巧：真诚认可的实用指南.md",
+          "bytes": 11278,
+          "sha256": "fca5a133a09588de697883792e8024d6effd7dd229d41956b0542101242f2d77"
+        },
+        {
+          "path": "references/practical/为他人提供情绪价值：温暖且有效的回应指南.md",
+          "bytes": 12247,
+          "sha256": "565c7b4b9e27993a92de6339e403f9f82ededa87dc1e205d4602742ad6693c8b"
+        },
+        {
+          "path": "references/practical/主动表达、第一次见面与自然接触.md",
+          "bytes": 7205,
+          "sha256": "e824fbc7ec35a4266a07a97b18d612920b8b9c3b12b05f08a493f2614eaa51e8"
+        },
+        {
+          "path": "references/practical/关系投入失衡：互惠判断、降级投入与退出决策.md",
+          "bytes": 7438,
+          "sha256": "44f05b345f048a0e6fc0c25bfac2ef21097f7e13d8f4b30eeb3ee032a9fc2789"
+        },
+        {
+          "path": "references/practical/化解尴尬：轻松救场的实用指南.md",
+          "bytes": 10460,
+          "sha256": "e87b3e90c1c3fbe17708d1b7bcc43549f8d042d7653c7fd48d7dbb5b0b7c5fcb"
+        },
+        {
+          "path": "references/practical/场景感、松弛感与社交校准：从接话到关系推进.md",
+          "bytes": 7013,
+          "sha256": "01864b3713a8b25bd310a3678b44d2e937ce3a2817c381090d8ba71ab534c4d5"
+        },
+        {
+          "path": "references/practical/实战话术编排器：从一句回复到后续分支.md",
+          "bytes": 10890,
+          "sha256": "f0c3873b6948cb345dc6fa651a1703b93f314f79b847f1ab76291248aadd8fb1"
+        },
+        {
+          "path": "references/practical/巧妙接话技巧：让沟通更流畅的实用指南.md",
+          "bytes": 10732,
+          "sha256": "62c4a2e3d479e1e41fbeb34d7dda7d477c742bf172fd67567ea1af53ee5b71f5"
+        },
+        {
+          "path": "references/practical/废话文学回复指南：轻松应对各类场景.md",
+          "bytes": 7602,
+          "sha256": "e3bffac19601217721aa2dec00c725a7b49240d71d95136c4e3ce6756d884b2d"
+        },
+        {
+          "path": "references/practical/托人办事的高效话术指南.md",
+          "bytes": 7540,
+          "sha256": "dc07cde003b5a9b0993d27086fa1bcada85d1ff689a977a60af20c5d96523191"
+        },
+        {
+          "path": "references/practical/提升表达逻辑性：从混乱到清晰的实用指南.md",
+          "bytes": 13162,
+          "sha256": "b373c5ce25a3759ffc80830bf7b4cd877a0dca01320fcaedfd54e364b17db67a"
+        },
+        {
+          "path": "references/practical/提高气场：从内到外的力量感塑造指南.md",
+          "bytes": 9708,
+          "sha256": "cd3121d022a6fde3876725a29e66f5f7ada0f68e4d02177a4eb625c2c265fa21"
+        },
+        {
+          "path": "references/practical/有效拓展人脉：从建立到维护的实用指南.md",
+          "bytes": 11114,
+          "sha256": "3089417510bc969716cb9acf047514e2a2ed3929306ffc2572eef90d19cbd702"
+        },
+        {
+          "path": "references/practical/聊天化被动为主动：引导互动的实用指南.md",
+          "bytes": 12283,
+          "sha256": "bf18a460fc97ac45d14abeaf6a84f92b7c8f9afaaee914f30bb1fd162f96a585"
+        },
+        {
+          "path": "references/practical/自然流、内在状态与结构化互动：伦理能力转译.md",
+          "bytes": 7055,
+          "sha256": "9e5ed2c2cdef61de8ca62d8d04f4e4c2fb23854d31d8bba01afc136d30f228ed"
+        },
+        {
+          "path": "references/practical/获得领导青睐：从价值匹配到信任建立的实用指南.md",
+          "bytes": 9328,
+          "sha256": "0eacd563a3531401a6361c52878c74bb2a1473e9c68dc6e603fa721ed9840118"
+        },
+        {
+          "path": "references/practical/被孤立如何破局：从自我调适到建立连接的实用指南.md",
+          "bytes": 9687,
+          "sha256": "573bce0c441fb605c255073b8c50d5e6f21106e6f1015742c0ce6544d7617365"
+        },
+        {
+          "path": "references/practical/高情商拒绝他人：体面护边界的实用指南.md",
+          "bytes": 13089,
+          "sha256": "d34c76a00cd07d8337065f327b154483882b7d1787297aa52fe791aab300872b"
+        },
+        {
+          "path": "scripts/validate_skill.py",
+          "bytes": 9601,
+          "sha256": "d4fcf8f4ac490bcd00a13a8184949ded409f1194ff06277077dcb8ec1c9b506d"
+        },
+        {
+          "path": "tests/active-dating-scenarios.md",
+          "bytes": 4609,
+          "sha256": "97deee7667a0827f8496cb6a4e09ef85651f3ca4aab6c0c7ecb0d98e28cf8c37"
+        },
+        {
+          "path": "tests/chat-record-analysis-scenarios.md",
+          "bytes": 2849,
+          "sha256": "c681127932164009ba2a65d49e945659805c85afef9b9224275b9efbafdc7553"
+        },
+        {
+          "path": "tests/classic-social-framework-scenarios.md",
+          "bytes": 4796,
+          "sha256": "18180fe87f4c17110e43603b51d4e63fb6e2acae7c23f06f42c90a268f876bed"
+        },
+        {
+          "path": "tests/relationship-investment-scenarios.md",
+          "bytes": 4046,
+          "sha256": "7c99a4d6ce14c2f8621cd945596864d8240c2be2876d9c2871d37d12b223911a"
+        },
+        {
+          "path": "tests/social-calibration-scenarios.md",
+          "bytes": 3572,
+          "sha256": "4b026bc6d55ca5e3671a686180572bfe853330de0c2b0afabebedd116f32eb8d"
+        },
+        {
+          "path": "tests/tactical-reply-scenarios.md",
+          "bytes": 3545,
+          "sha256": "0df7b8086f01e314a581319be723348a1916e96d5121525dafb30ddd388bd7f2"
+        }
+      ],
+      "upstream": "https://github.com/powerycy/goutoujunshi",
+      "upstream_revision": "81d99da388da11cb6c1bc18259c6802c82fbaf41",
+      "local_modifications_included": [
+        "SKILL.md",
+        "tests/tactical-reply-scenarios.md"
+      ]
+    },
+    {
+      "name": "company-okr-iterate",
+      "source": "~/.codex/skills/company-okr-iterate",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5741,
+          "sha256": "71a1b5a0d11cbec5e3a10f67848fe6616bba648fa1c34f720769b7a8fd714c3c"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 277,
+          "sha256": "b325a7fc9d037d28ebc65565c467517345223d6940fe974ccacdbd3a116fbe7b"
+        },
+        {
+          "path": "assets/okr.example.json",
+          "bytes": 1656,
+          "sha256": "46a6ba688f8ce65dc92653d53854ad37afdea945e4dbd051d96c1426e976dce0"
+        },
+        {
+          "path": "references/data-contract.md",
+          "bytes": 3054,
+          "sha256": "8258fb6b30a01ed52e65f577ee4f810abc9e54a8f043adc4a1abafba9d9511b9"
+        },
+        {
+          "path": "references/delegation.md",
+          "bytes": 3072,
+          "sha256": "45ce1783d94af02a8774b57697a35b1b753add2719f161d87e0dc0ef360342f7"
+        },
+        {
+          "path": "references/provenance.md",
+          "bytes": 1371,
+          "sha256": "f7ad1305504699fd30d4808a0defa8d35bc90486e87d25d3e7ed5bcd9227c957"
+        },
+        {
+          "path": "references/verification.md",
+          "bytes": 4226,
+          "sha256": "1d8f2364fcf05db0c18f4647cde74cc40592c2872207bfde31cd77837da94c9a"
+        },
+        {
+          "path": "references/workflow.md",
+          "bytes": 4702,
+          "sha256": "27cd7d175d58fa5e37a40ff2eac1b4e7bc69e10cb91a5d17a437353d3b8184b1"
+        },
+        {
+          "path": "scripts/check_okr.py",
+          "bytes": 9629,
+          "sha256": "99cb8e34db0170afa7d201210ea85625179c01c40db3510de885a96f1b4e44d9"
+        },
+        {
+          "path": "tests/behavioral-scenarios.md",
+          "bytes": 2075,
+          "sha256": "f1cec350ac55f9b4e6e6b71335206daf015cd3782f89d8e2d0aa14d8e5cb3d7c"
+        },
+        {
+          "path": "tests/test_check_okr.py",
+          "bytes": 5479,
+          "sha256": "5ade0902f16a617e8ff264b79ca8b1d9da29e8154dfb678ede01596b8a9042ad"
+        }
+      ]
+    },
+    {
+      "name": "multi-agent-iterate",
+      "source": "~/.codex/skills/multi-agent-iterate",
+      "files": [
+        {
+          "path": "README.md",
+          "bytes": 10792,
+          "sha256": "a4f82580efb76082f2b7594b1174bef44d0939fba1e735214f31f422678c9993"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 12046,
+          "sha256": "e163173873cfb9985e89dc5271a023cb8bdf3dab4a76aabf5b9e45b38833d358"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 374,
+          "sha256": "854e70b2178eed8823a3814cdeb8aa78ec6950cbc3a0af5314ade4a79f24f998"
+        },
+        {
+          "path": "assets/run-template.md",
+          "bytes": 2776,
+          "sha256": "463fe80891d9209ef2b41678c25779f5b20dfc1b4898daf84c45b757b66f0fa5"
+        },
+        {
+          "path": "references/delegation.md",
+          "bytes": 5006,
+          "sha256": "c23b5f93c1af7ca6e6fb0a0388657dc95cad0ec8ea98453792e01791f586f3c5"
+        },
+        {
+          "path": "references/examples.md",
+          "bytes": 2784,
+          "sha256": "162a3220022b46c74c8c9a61d8116a1ca94dfa7692031437695a78eb0ab33c21"
+        },
+        {
+          "path": "references/planning-and-learning.md",
+          "bytes": 3801,
+          "sha256": "9f5ce461cc776012463826ef5a758dfcccdff37186949d7d2d67f8ef1997f747"
+        },
+        {
+          "path": "references/provenance.md",
+          "bytes": 7817,
+          "sha256": "83a733cf6992d6dee6b0b24140dc739a2a8d8e6910143c47171385136a464482"
+        },
+        {
+          "path": "references/structure-challenge.md",
+          "bytes": 3655,
+          "sha256": "19befc77532f56616abbc81c87fa2ae8ab37f4a5a44a19ee366447d29080bf86"
+        },
+        {
+          "path": "references/task-acceptance.md",
+          "bytes": 5700,
+          "sha256": "38edd1a8130e9337d387b31cfb669e0df899d481a777261c9ed040bc4ba79f6f"
+        },
+        {
+          "path": "references/verification.md",
+          "bytes": 6375,
+          "sha256": "3ca9723b028fbd0a05c033e751aec6558556e0f92d92744dee0ac0b7a59c4c5b"
+        }
+      ],
+      "updated_on": "2026-10-05"
+    }
+  ],
+  "updated_at": "2026-10-05",
+  "sanitized_on": "2026-10-14"
+}
